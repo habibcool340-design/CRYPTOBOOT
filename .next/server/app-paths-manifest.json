@@ -1,0 +1,17 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/auth/request-otp/route": "app/api/auth/request-otp/route.js",
+  "/api/auth/verify-otp/route": "app/api/auth/verify-otp/route.js",
+  "/api/balance/route": "app/api/balance/route.js",
+  "/api/challenges/claim/route": "app/api/challenges/claim/route.js",
+  "/api/challenges/route": "app/api/challenges/route.js",
+  "/api/claim/route": "app/api/claim/route.js",
+  "/api/friends/leaderboard/route": "app/api/friends/leaderboard/route.js",
+  "/api/friends/me/route": "app/api/friends/me/route.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/splash/page": "app/splash/page.js",
+  "/page": "app/page.js"
+}
